@@ -2,8 +2,6 @@
 
 Object: ActiveOPCount
 
-```python
-
 
 allow_entry  
 cars_left  
